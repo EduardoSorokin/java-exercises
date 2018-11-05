@@ -15,6 +15,7 @@ Some Java exercises that I did for study purposes.
 - [Print Chars](#print-chars)
 - [Quadratic Equation](#quadratic-equation)
 - [School Average](#school-average)
+- [Sum Positives](#sum-positives)
 - [Temperature Converter](#temperature-converter)
 
 ---
@@ -62,6 +63,10 @@ Build a quadratic equation and solve it by using Bhaskara's formula.
 ### School Average
 
 Calculate the final status of a student given 2 grades.
+
+### Sum Positives
+
+Sum the typed values until a negative number is typed.
 
 ### Temperature Converter
 
