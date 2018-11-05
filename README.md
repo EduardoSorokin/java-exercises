@@ -6,6 +6,8 @@ Some Java exercises that I did for study purposes.
 
 - [Area of a Triangle](#area-of-a-triangle)
 - [Body Mass Index Calculator](#body-mass-index-calculator)
+- [Even Number Between 0 and 10](#even-number-between-0-and-10)
+- [Leap Year](#leap-year)
 - [Number Squared and Cubed](#number-squared-and-cubed)
 - [Quadratic Equation](#quadratic-equation)
 - [Temperature Converter](#temperature-converter)
@@ -14,19 +16,27 @@ Some Java exercises that I did for study purposes.
 
 ### Area of a Triangle
 
-Calculates the area of a triangle given its base and height.
+Calculate the area of a triangle given its base and height.
 
 ### Body Mass Index Calculator
 
-Calculates the BMI given a weight and a height.
+Calculate the BMI given a weight and a height.
+
+### Even Number Between 0 and 10
+
+Check if a given number is between 0 and 10 and then check if is an even number.
+
+### Leap Year
+
+Check if a given year is a leap year.
 
 ### Number Squared and Cubed
 
-Calculates the squared and cubed value of a given number.
+Calculate the squared and cubed value of a given number.
 
 ### Quadratic Equation
 
-Builds a quadratic equation and solve it by using Bhaskara's formula.
+Build a quadratic equation and solve it by using Bhaskara's formula.
 
 ### Temperature Converter
 
