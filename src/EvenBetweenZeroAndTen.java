@@ -23,7 +23,7 @@ public class EvenBetweenZeroAndTen {
 			System.exit(0);
 		}
 
-		System.out.println("\nThe number is between 0 and 10 " + (num % 2 == 0 ? "and is an" : "but is not") + " an even number.");
+		System.out.println("\nThe number is between 0 and 10 " + (num % 2 == 0 ? "and is" : "but is not") + " an even number.");
 		
 	}
 	
