@@ -2,13 +2,14 @@
 
 Some Java exercises that I did for study purposes.
 
-## List of Contents
+## List of Contents [A to Z]
 
 - [Area of a Triangle](#area-of-a-triangle)
 - [Body Mass Index Calculator](#body-mass-index-calculator)
 - [Even Number Between 0 and 10](#even-number-between-0-and-10)
 - [Leap Year](#leap-year)
 - [Number Squared and Cubed](#number-squared-and-cubed)
+- [Prime Number](#prime-number)
 - [Quadratic Equation](#quadratic-equation)
 - [School Average](#school-average)
 - [Temperature Converter](#temperature-converter)
@@ -34,6 +35,10 @@ Check if a given year is a leap year.
 ### Number Squared and Cubed
 
 Calculate the squared and cubed value of a given number.
+
+### Prime Number
+
+Check if a given number is a prime number.
 
 ### Quadratic Equation
 
