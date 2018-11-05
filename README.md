@@ -10,6 +10,7 @@ Some Java exercises that I did for study purposes.
 - [Leap Year](#leap-year)
 - [Number Squared and Cubed](#number-squared-and-cubed)
 - [Quadratic Equation](#quadratic-equation)
+- [School Average](#school-average)
 - [Temperature Converter](#temperature-converter)
 
 ---
@@ -37,6 +38,10 @@ Calculate the squared and cubed value of a given number.
 ### Quadratic Equation
 
 Build a quadratic equation and solve it by using Bhaskara's formula.
+
+### School Average
+
+Calculate the final status of a student given 2 grades.
 
 ### Temperature Converter
 
