@@ -1,6 +1,6 @@
 # Java Exercises
 
-Some Java exercises that I did for study purposes.
+Some Java exercises that I've done for study purposes.
 
 ## List of Contents [A to Z]
 
